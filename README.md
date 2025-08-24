@@ -1,7 +1,7 @@
 # Smart Urban Trash Sorter AI
 
 <div align="center">
-  <img src="https://i.ibb.co/q500KjW/banana-peel.jpg" alt="AI in action" width="350"/>
+  <img src="https://ibb.co.com/GQtYJvSG" alt="AI in action" width="350"/>
   <h3>AI-Powered Waste Management for Smarter Cities</h3>
 </div>
 
