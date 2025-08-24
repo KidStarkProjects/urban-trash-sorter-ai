@@ -25,7 +25,7 @@ The project addresses the critical challenge of waste segregation, promoting sus
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/KidStarkProjects/urban-trash-sorter-ai.git](https://github.com/KidStarkProjects/urban-trash-sorter-ai.git)
+    git clone https://github.com/KidStarkProjects/urban-trash-sorter-ai.git
     cd urban-trash-sorter-ai
     ```
 2.  **Install Dependencies:**
